@@ -1,0 +1,4 @@
+interface:
+  display_name: "Public Release Sanitizer"
+  short_description: "Scan files before public release"
+  default_prompt: "Use $public-release-sanitizer to scan files before public release."
